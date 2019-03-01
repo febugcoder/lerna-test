@@ -1,6 +1,6 @@
 {
   "name": "test-lerna-lib3",
-  "version": "1.0.1-beta.3",
+  "version": "1.0.1-beta.4",
   "description": "测试lerna",
   "main": "dist/index.js",
   "jsnext:main": "dist/index.esm.js",
