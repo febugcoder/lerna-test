@@ -1,6 +1,6 @@
 {
-  "name": "test-lerna-lib3",
-  "version": "1.0.1-beta.3",
+  "name": "test-lerna-lib4",
+  "version": "1.0.0",
   "description": "测试lerna",
   "main": "dist/index.js",
   "jsnext:main": "dist/index.esm.js",
@@ -69,7 +69,7 @@
     "@babel/runtime": "^7.1.2",
     "@jsmini/extend": "0.2.1",
     "@jsmini/type": "0.4.0",
-    "test-lerna-lib1": "^0.1.1-beta.3",
-    "test-lerna-lib2": "^0.1.3-beta.1"
+    "react": "^16.8.3",
+    "test-lerna-lib1": "^0.1.1-beta.3"
   }
 }
